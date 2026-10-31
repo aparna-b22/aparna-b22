@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi, I'm Aparna B 👋
 
-<!--
-**aparna-b22/aparna-b22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer | Java | Backend Development
 
-Here are some ideas to get you started:
+I'm a Computer Science graduate interested in building reliable software applications and growing as a backend developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technical Skills
+
+Programming: Java, Python, JavaScript, SQL
+Frontend: HTML, CSS, Bootstrap, FlutterFlow
+Backend: REST API Integration
+Database: MySQL, MongoDB, SQLite
+Tools: Git, GitHub, VS Code
+
+Currently Learning: 
+
+Core Java and OOP Data 
+Structures and Algorithms
+Spring Boot
+Backend API Development
+Full-Stack Development
+
+My Repositories
+JavaPrograms – Java practice programs
+
+Connect with Me: LinkedIn
